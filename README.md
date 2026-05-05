@@ -26,6 +26,3 @@ Actualmente estoy aprendiendo desarrollo backend con Java, trabajando en proyect
 Seguir creciendo como desarrollador backend y más adelante especializarme en ciberseguridad 🔐
 
 ---
-
-## 📌 Proyectos destacados
-(Aquí luego vas a poner links a tus repositorios)
