@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hola, soy Juan Carlos Monsalve
 
-<!--
-**JuanMR1017/JuanMR1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador backend en formación  
+🚀 Enfocado en Java y desarrollo de APIs  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+Actualmente estoy aprendiendo desarrollo backend con Java, trabajando en proyectos prácticos donde aplico:
+- Programación Orientada a Objetos
+- Conexión a bases de datos (MySQL)
+- Creación de APIs REST
+- Buenas prácticas de desarrollo
+
+---
+
+## 🛠️ Tecnologías
+- Java
+- Spring Boot (en proceso)
+- MySQL
+- Git & GitHub
+
+---
+
+## 🎯 Objetivo
+Seguir creciendo como desarrollador backend y más adelante especializarme en ciberseguridad 🔐
+
+---
+
+## 📌 Proyectos destacados
+(Aquí luego vas a poner links a tus repositorios)
